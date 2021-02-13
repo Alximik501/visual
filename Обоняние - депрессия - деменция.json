@@ -1,0 +1,13 @@
+{
+	"file": "https://raw.githubusercontent.com/Alximik501/visual/main/%D0%9E%D0%B1%D0%BE%D0%BD%D1%8F%D0%BD%D0%B8%D0%B5%20-%20%D0%B4%D0%B5%D0%BF%D1%80%D0%B5%D1%81%D1%81%D0%B8%D1%8F%20-%20%D0%B4%D0%B5%D0%BC%D0%B5%D0%BD%D1%86%D0%B8%D1%8F.csv",
+	"name": "Test",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Name" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 3 }
+	]
+}
